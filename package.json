@@ -1,0 +1,38 @@
+{
+  "name": "vue_cli3",
+  "version": "1.0.2",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "qs": "^6.5.2",
+    "register-service-worker": "^1.0.0",
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1",
+    "element-ui": "^2.4.8"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-rc.10",
+    "@vue/cli-plugin-eslint": "^3.0.0-rc.10",
+    "@vue/cli-plugin-pwa": "^3.0.0-rc.10",
+    "@vue/cli-service": "^3.0.0-rc.10",
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "es6-promise-polyfill": "^1.2.0",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0",
+    "qs": "^6.5.2",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "main.js",
+  "author": "harday",
+  "license": "ISC",
+  "__npminstall_done": "Thu Oct 25 2018 08:51:46 GMT+0800 (中国标准时间)",
+  "_from": "vue_cli3@1.0.2",
+  "_resolved": "http://registry.npm.taobao.org/vue_cli3/download/vue_cli3-1.0.2.tgz"
+}
